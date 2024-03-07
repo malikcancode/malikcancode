@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Front End Devlopment**
 
-- 👨‍💻 All of my projects are available at [https://yasirmalik.netlify.app/](https://yasirmalik.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yasirmalik-folio.netlify.app/](https://yasirmalik-folio.netlify.app/)
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT**
 
