@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **malikoffical32@gmail.com**
 
-- 📄 Know about my experiences [https://yasirmalik.netlify.app/](https://yasirmalik.netlify.app/)
+- 📄 Know about my experiences [https://yasirmalik-folio.netlify.app/](https://yasirmalik-folio.netlify.app/)
 
 - ⚡ Fun fact **Iam funny**
 
