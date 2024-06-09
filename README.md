@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yasirmalik-folio.netlify.app/](https://yasirmalik-folio.netlify.app/)
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT REACT**
+- 💬 Ask me about **HTML CSS BOOSTRAP TAILWINDCSS JAVASCRIPT GSAP(ANIMATION LIBRARY) REACT**
 
 - 📫 How to reach me **malikoffical32@gmail.com**
 
