@@ -92,12 +92,15 @@ src="https://img.shields.io/github/followers/malikcancode?logo=github&style=for-
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" />
   </a>
   <!-- npm -->
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/[npm-colored.svg](https://tse2.mm.bing.net/th?id=OIP.3092j3IFPgDZ1qpCAyxkkQHaHa&w=474&h=474&c=7)" width="36" height="36" alt="npm" />
-  </a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width="36" height="36" alt="npm" />
+</a>
+
   <!-- Vercel -->
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vercel-colored.svg"
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/354512/vercel.svg" width="36" height="36" alt="Vercel" />
+</a>
+
 ::contentReference[oaicite:1]{index=1}
  
 
