@@ -98,7 +98,7 @@ src="https://img.shields.io/github/followers/malikcancode?logo=github&style=for-
 
   <!-- Vercel -->
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyKE11KsQHCwzSDmLTgRKEQp9RGunynOqZKA&s" width="36" height="36" alt="Vercel" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3ICAQwNpGxN0WFqphLJyREEuC4fddgwBCA&s" width="36" height="36" alt="Vercel" />
 </a>
 
  
