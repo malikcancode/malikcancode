@@ -93,7 +93,7 @@ src="https://img.shields.io/github/followers/malikcancode?logo=github&style=for-
   </a>
   <!-- npm -->
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/npm-colored.svg" width="36" height="36" alt="npm" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/[npm-colored.svg](https://tse2.mm.bing.net/th?id=OIP.3092j3IFPgDZ1qpCAyxkkQHaHa&w=474&h=474&c=7)" width="36" height="36" alt="npm" />
   </a>
   <!-- Vercel -->
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
