@@ -23,6 +23,13 @@ src="https://img.shields.io/github/followers/malikcancode?logo=github&style=for-
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
+  <!-- Github -->
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*JLYlSLSK8-AZo8gt9UdYqA.jpeg" width="36" height="36" alt="Git" />
+  </a>
+
+
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
