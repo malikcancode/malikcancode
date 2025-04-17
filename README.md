@@ -98,10 +98,9 @@ src="https://img.shields.io/github/followers/malikcancode?logo=github&style=for-
 
   <!-- Vercel -->
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/354512/vercel.svg" width="36" height="36" alt="Vercel" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyKE11KsQHCwzSDmLTgRKEQp9RGunynOqZKA&s" width="36" height="36" alt="Vercel" />
 </a>
 
-::contentReference[oaicite:1]{index=1}
  
 
 
