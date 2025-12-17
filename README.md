@@ -11,17 +11,14 @@ I help brands grow online through **clean UI/UX**, **secure backend systems**, a
 
 ---
 
-### 🌍 About Me (SEO Focused)
-
+### 🌍 About Me
 - 📍 **Location:** Mianwali, Punjab, Pakistan  
 - 💼 **Role:** Full Stack Developer | MERN Stack Developer  
 - 🧠 **Experience:** 1+ year of real-world development experience  
 - 🌐 **Portfolio:** [https://muhammad-yasir.vercel.app](https://muhammad-yasir.vercel.app)  
 - ✉️ **Email:** [malikoffical32@gmail.com](mailto:malikoffical32@gmail.com)  
 - 🤝 Open to **remote projects**, **freelance work**, and **full-time opportunities**
-
-> If you’re searching for a **MERN Stack Developer from Pakistan**, **Web Developer from Pakistan**, or **Muhammad Yasir Full Stack Developer**, you’re in the right place.
-
+  
 ---
 
 ## 🚀 What I Do – Full Stack Web Development Services
@@ -67,7 +64,7 @@ I help brands grow online through **clean UI/UX**, **secure backend systems**, a
 
 ---
 
-## 🧠 Core Expertise (Keyword Optimized)
+## 🧠 Core Expertise
 
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js & Next.js Developer
@@ -86,8 +83,6 @@ I help brands grow online through **clean UI/UX**, **secure backend systems**, a
 
 ## 🏆 Highlighted Projects
 
-### 🔹 Car Rental Web Application
-A complete **MERN Stack web application** featuring booking workflows, dynamic routes, MongoDB integration, cart management, and Stripe test payments.
 
 ### 🔹 Animated Portfolio Website
 A modern **React + GSAP portfolio** with smooth animations, Locomotive Scroll, responsive layouts, and performance optimization.
@@ -171,7 +166,7 @@ To become a top-rated **Full Stack Developer from Pakistan**, delivering modern,
 
 ---
 
-### 🔍 SEO Keywords Targeted
+
 
 **Muhammad Yasir**  
 **Yasir Malik**  
