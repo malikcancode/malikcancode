@@ -2,182 +2,53 @@ Hi 👋
 My name is Muhammad Yasir Malik
 ======================================================================================================================================
 
-**Muhammad Yasir Malik – Full Stack Web Developer | MERN Stack Developer from Pakistan | Modern Web Experience Builder**
-------------------------------------------------------------------------------------------------------------------------
+**Muhammad Yasir Malik – Full Stack Web Developer | MERN Stack Developer from Pakistan**
 
-I am **Muhammad Yasir Malik**, a **Full Stack Web Developer from Pakistan** specializing in **MERN Stack development**, modern frontend engineering, and high-performance web applications. Based in **Mianwali, Punjab, Pakistan**, I build fast, scalable, SEO-friendly, and visually engaging websites and web apps for businesses worldwide.
+I am **Muhammad Yasir Malik**, a **Full Stack Web Developer from Pakistan** specializing in **MERN Stack development** and modern, high-performance web applications. Based in **Mianwali, Punjab, Pakistan**, I build **fast, scalable, and SEO-friendly websites** using **React, Next.js, Node.js, Express, MongoDB, and Tailwind CSS**.
 
-I help brands grow online through **clean UI/UX**, **secure backend systems**, and **modern JavaScript frameworks** like **React.js, Next.js, Node.js, Express.js, and MongoDB**.
+I help businesses grow online through **clean UI/UX**, **secure backend systems**, and **modern JavaScript frameworks**.
 
 ---
 
-### 🌍 About Me
+### 🌍 Quick Info
 - 📍 **Location:** Mianwali, Punjab, Pakistan  
-- 💼 **Role:** Full Stack Developer | MERN Stack Developer  
-- 🧠 **Experience:** 1+ year of real-world development experience  
-- 🌐 **Portfolio:** [https://muhammad-yasir.vercel.app](https://muhammad-yasir.vercel.app)  
-- ✉️ **Email:** [malikoffical32@gmail.com](mailto:malikoffical32@gmail.com)  
-- 🤝 Open to **remote projects**, **freelance work**, and **full-time opportunities**
-  
----
-
-## 🚀 What I Do – Full Stack Web Development Services
-
-### ✅ Frontend Development
-- React.js, Next.js
-- JavaScript (ES6+), TypeScript
-- Tailwind CSS, Bootstrap
-- Responsive & mobile-first UI
-- SEO-optimized frontend architecture
-
-### ✅ Backend Development
-- Node.js & Express.js
-- MongoDB & Mongoose
-- RESTful APIs
-- Authentication & protected routes
-- Secure backend logic
-
-### ✅ UI/UX & Web Design
-- Clean, modern UI systems
-- Figma-based layouts
-- User-centered design approach
-
-### ✅ Interactive & Animated Websites
-- GSAP & ScrollTrigger
-- Framer Motion
-- Locomotive Scroll
-- React Three Fiber (R3F)
-
-### ✅ Full Website & Web App Development
-- Business websites
-- Portfolio websites
-- Landing pages
-- Car rental systems
-- Event booking platforms
-- Dashboards & admin panels
-
-### ✅ Deployment & Hosting
-- Vercel
-- Netlify
-- Railway
-- Production optimization & CI workflows
+- 💼 **Role:** Full Stack / MERN Stack Developer  
+- 🧠 **Experience:** 1+ year  
+- 🌐 **Portfolio:** https://muhammad-yasir.vercel.app  
+- ✉️ **Email:** malikoffical32@gmail.com  
 
 ---
 
-## 🧠 Core Expertise
-
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js & Next.js Developer
-- MERN Stack Development
-- Node.js, Express.js
-- MongoDB & Mongoose
-- Tailwind CSS & Bootstrap
-- GSAP & Framer Motion animations
-- API integration & backend logic
-- Authentication systems
-- Git & GitHub
-- SEO-friendly web development
-- Vercel & Netlify deployments
+## 🚀 What I Do
+- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Animations:** GSAP, Framer Motion, Locomotive Scroll  
+- **Web Apps:** Business sites, portfolios, dashboards, booking systems  
+- **Deployment:** Vercel, Netlify, Railway  
 
 ---
 
-## 🏆 Highlighted Projects
-
-
-### 🔹 Animated Portfolio Website
-A modern **React + GSAP portfolio** with smooth animations, Locomotive Scroll, responsive layouts, and performance optimization.
-
-### 🔹 Gym & Fitness Website
-A conversion-focused landing page built with **React and Tailwind CSS**, optimized for speed and mobile responsiveness.
-
-### 🔹 Business Agency Website
-A full-stack business website with backend forms, reusable components, and SEO-optimized pages.
-
-### 🔹 Real Estate Website
-Dynamic property listings with responsive UI, SEO-friendly routes, and mobile-first design.
-
-### 🔹 Construction Management System
-A **full-stack dashboard** built using React, Node.js, Express, and MongoDB to manage projects, tasks, workers, and materials.
-
-### 🔹 La Mulatae Event Booking System
-An event booking and scheduling platform with admin controls, availability management, and API integration.
-
-### 🔹 SmartStub Platform
-A smart ticketing system featuring QR verification, admin dashboards, analytics, and secure backend workflows.
+## 🏆 Featured Work
+- Animated React Portfolio (GSAP + Locomotive Scroll)  
+- Business & Agency Websites  
+- Real Estate & Construction Management Systems  
+- Event Booking & Smart Ticketing Platforms  
 
 ---
 
-## 🧰 Technologies I Work With
-
-**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, GSAP, Framer Motion  
-**Backend:** Node.js, Express.js, MongoDB  
-**Design:** Figma  
-**Deployment:** Vercel, Netlify, Railway  
-**Tools:** Git, GitHub, VS Code  
+## 🧠 Core Skills
+**React • Next.js • MERN Stack • Node.js • Express • MongoDB • Tailwind CSS • GSAP • Git & GitHub • SEO-friendly Development**
 
 ---
 
-## 🏅 Achievements
-
-- Delivered multiple full-stack projects within 1 year
-- Built scalable MERN Stack applications
-- Worked with clients across multiple industries
-- Known for clean code & strong backend logic
-- Expert in animated and interactive websites
+## 📞 Contact
+📧 malikoffical32@gmail.com  
+📱 +92 302 9144398  
+📍 Mianwali, Punjab, Pakistan  
+🌐 https://muhammad-yasir.vercel.app  
 
 ---
 
-## 🤝 Why Clients Trust Muhammad Yasir Malik
+**Muhammad Yasir | Yasir Malik | MERN Stack Developer from Pakistan | Full Stack Developer from Pakistan | Web Developer from Pakistan | Mianwali Web Developer**
 
-- SEO-optimized development
-- Clean & scalable codebase
-- Fast and secure applications
-- Strong UI/UX understanding
-- Professional communication
-- On-time delivery
-- Modern tech stack expertise
-
----
-
-## 🔄 My Development Workflow
-
-1. Requirement analysis
-2. UI/UX planning
-3. Backend architecture
-4. Frontend development
-5. Animations & interactions
-6. Testing & optimization
-7. Deployment & support
-
----
-
-## 🌟 My Vision
-
-To become a top-rated **Full Stack Developer from Pakistan**, delivering modern, high-performance, and SEO-friendly digital products that help businesses grow globally.
-
----
-
-## 📞 Contact Muhammad Yasir Malik
-
-- 📧 Email: malikoffical32@gmail.com  
-- 📱 Phone: +92 302 9144398  
-- 📍 Location: Mianwali, Punjab, Pakistan  
-- 🌐 Website: https://muhammad-yasir.vercel.app  
-
----
-
-
-
-**Muhammad Yasir**  
-**Yasir Malik**  
-**Muhammad Yasir Full Stack Developer**  
-**Yasir Malik MERN Stack Developer**  
-**MERN Stack Developer from Pakistan**  
-**Full Stack Developer from Pakistan**  
-**Web Developer from Pakistan**  
-**Website Developer from Pakistan**  
-**Mianwali Web Developer**
-
----
-
-⭐ If you found my work useful, consider following me on GitHub.
+⭐ Follow me on GitHub for modern web projects
