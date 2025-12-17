@@ -13,7 +13,7 @@ I help businesses grow online through **clean UI/UX**, **secure backend systems*
 ### 🌍 Quick Info
 - 📍 **Location:** Mianwali, Punjab, Pakistan  
 - 💼 **Role:** Full Stack / MERN Stack Developer  
-- 🧠 **Experience:** 1+ year  
+- 🧠 **Experience:** 1 year  
 - 🌐 **Portfolio:** https://muhammad-yasir.vercel.app  
 - ✉️ **Email:** malikoffical32@gmail.com  
 
